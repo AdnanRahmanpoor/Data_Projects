@@ -90,7 +90,9 @@ Tracked revenue over time by aggregating transaction values monthly.
 
 1. Clone the repo or download the notebook:
    ```bash
-   git clone https://github.com/yourusername/client-ltv-retention-analysis.git
+   git clone https://github.com/adnanrahmanpoor/Data_Projects.git
+
+   cd Data_Projects
 
 2. Install dependencies:
    ```bash
