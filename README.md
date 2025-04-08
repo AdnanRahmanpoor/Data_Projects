@@ -1,2 +1,20 @@
 # Data_Projects
 A repo to document the different project I complete in Data Analysis and Data Science Fields
+
+# Tools
+The project will be created utilizing different tools that are widely used in Data Analytics and Data Science, & may vary across the fields/projects.
+
+* Python
+* R
+* SQL
+* Excel/Sheets
+* Power Bi / Tableau
+ 
+
+# Projects List & Categories
+
+## Auditing
+* [Audit Analysis](https://github.com/AdnanRahmanpoor/Data_Projects/tree/main/audit_analysis)
+
+## Customer Analytics
+* [Client Acquisition, Retention & LTVAnalysis](https://github.com/AdnanRahmanpoor/Data_Projects/tree/main/Client_Acquisition_Retention_%26_LTV_Analysis)
