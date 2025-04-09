@@ -18,3 +18,6 @@ The project will be created utilizing different tools that are widely used in Da
 
 ## Customer Analytics
 * [Client Acquisition, Retention & LTVAnalysis](https://github.com/AdnanRahmanpoor/Data_Projects/tree/main/Client_Acquisition_Retention_%26_LTV_Analysis)
+
+## Real Estate Analysis
+* [Dubai Real Estate Analysis](https://github.com/AdnanRahmanpoor/Data_Projects/tree/main/dubai_real_estate_market_performance)
