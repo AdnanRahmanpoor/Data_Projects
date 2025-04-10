@@ -19,6 +19,9 @@ The project will be created utilizing different tools that are widely used in Da
 ## Customer Analytics
 * [Client Acquisition, Retention & LTVAnalysis](https://github.com/AdnanRahmanpoor/Data_Projects/tree/main/Client_Acquisition_Retention_%26_LTV_Analysis)
 
+## Economy
+* [Egg Prices Analysis - Nominal vs Real](https://github.com/AdnanRahmanpoor/Data_Projects/tree/main/egg_price_analysis_usa_2015_2025)
+
 ## Finance
 * [Financial Variance Analysis & Revenue Trend](https://github.com/AdnanRahmanpoor/Data_Projects/tree/main/financial_variance_analysis_revenue_trend)
 
