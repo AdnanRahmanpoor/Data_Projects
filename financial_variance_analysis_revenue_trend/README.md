@@ -6,6 +6,10 @@ A complete end-to-end financial analytics project simulating a Business Analyst 
 
 This project analyzes simulated financial data across multiple revenue streams to evaluate monthly performance, identify budget variances, and calculate profitability. It aligns closely with the responsibilities of a Business Analyst in a finance-focused role.
 
+## Screenshot
+
+![](./screenshot.png)
+
 ## 📁 Tech Stack
 
 - **SQLite** – Local database to simulate real-world ETL pipelines
