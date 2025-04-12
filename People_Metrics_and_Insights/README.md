@@ -2,7 +2,7 @@
 
 **Project Type:** People Analytics / Employee Retention  
 **Tools Used:** Python, Pandas, Matplotlib, Seaborn, Scikit-learn, Faker  
-**Final Output:** Markdown + PDF report (no dashboard required)
+**Final Output:** Markdown + PDF report
 
 ---
 
