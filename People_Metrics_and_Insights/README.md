@@ -16,7 +16,7 @@ The final output is a written report generated from a Jupyter Notebook, combinin
 
 ## 📁 Dataset
 
-The dataset was generated synthetically using the **Faker** library, simulating a workforce of 500–1000 employees with fields such as:
+The dataset was generated synthetically using the **Faker** library, simulating a workforce of 5000 employees with fields such as:
 
 - `EmployeeID`, `JoinDate`, `LastPromotionDate`, `LeftCompany`
 - `Department`, `Location`, `JobLevel`, `Gender`
