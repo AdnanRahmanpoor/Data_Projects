@@ -78,10 +78,9 @@ Model performance was tracked with accuracy, recall, precision, F1-score.
 ## 📬 Contact
 
 **Created by:** Adnan Rahmanpoor  
-**Agency:** Al Hilal Data Services
-**LinkedIn:** [LinkedIn](https://linkedin.com/in/adnanrahmanpoor)  
-**Email:** [Email](mailto:adnanrahmanpoor@gmail.com)
-
+**Agency:** [Al Hilal Data Services](https://alhilaldataservices.com)  
+**LinkedIn:** [LinkedIn](https://linkedin.com/in/adnanrahmanpoor)    
+**Email:** [Email](mailto:adnanrahmanpoor@gmail.com)  
 **Portfolio:** [Portfolio](https:/github.com/adnanrahmanpoor/Data_Projects)
 
 ---
