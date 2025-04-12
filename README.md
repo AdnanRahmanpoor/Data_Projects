@@ -17,13 +17,16 @@ The project will be created utilizing different tools that are widely used in Da
 * [Audit Analysis](https://github.com/AdnanRahmanpoor/Data_Projects/tree/main/audit_analysis)
 
 ## Customer Analytics
-* [Client Acquisition, Retention & LTVAnalysis](https://github.com/AdnanRahmanpoor/Data_Projects/tree/main/Client_Acquisition_Retention_%26_LTV_Analysis)
+* [Client Acquisition, Retention & LTV Analysis](https://github.com/AdnanRahmanpoor/Data_Projects/tree/main/Client_Acquisition_Retention_%26_LTV_Analysis)
 
 ## Economy
 * [Egg Prices Analysis - Nominal vs Real](https://github.com/AdnanRahmanpoor/Data_Projects/tree/main/egg_price_analysis_usa_2015_2025)
 
 ## Finance
 * [Financial Variance Analysis & Revenue Trend](https://github.com/AdnanRahmanpoor/Data_Projects/tree/main/financial_variance_analysis_revenue_trend)
+
+## HR / People Analytics
+* [Employee Attrition Analysis & Prediction](https://github.com/AdnanRahmanpoor/Data_Projects/tree/main/Employee_Attrition_Analysis_%26_Prediction)
 
 ## Real Estate Analysis
 * [Dubai Real Estate Analysis](https://github.com/AdnanRahmanpoor/Data_Projects/tree/main/dubai_real_estate_market_performance)
