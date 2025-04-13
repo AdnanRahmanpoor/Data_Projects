@@ -31,7 +31,7 @@ Analyze promotions, performance trends, and department transfers using SQL to gu
 - `sql_queries.sql`  
 - `results/*.csv`  
 - `csv/*.csv`
-- `results/HR_SQL_Report.md`  
+- `results/HR_SQL_Report.pdf`  
 - `hr_analytics.db`
 
 ## 🚀 Outcome  
