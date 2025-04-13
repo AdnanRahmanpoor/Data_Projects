@@ -28,6 +28,7 @@ The project will be created utilizing different tools that are widely used in Da
 ## HR / People Analytics
 * [Employee Attrition Analysis & Prediction](https://github.com/AdnanRahmanpoor/Data_Projects/tree/main/Employee_Attrition_Analysis_%26_Prediction)
 * [People Metrics and Insights](https://github.com/AdnanRahmanpoor/Data_Projects/tree/main/People_Metrics_and_Insights)
+* [Workforce Movement and Performance Tracker [SQL]](https://github.com/AdnanRahmanpoor/Data_Projects/tree/main/Workforce_Movement_and_Performance_Tracker)
 
 ## Real Estate Analysis
 * [Dubai Real Estate Analysis](https://github.com/AdnanRahmanpoor/Data_Projects/tree/main/dubai_real_estate_market_performance)
