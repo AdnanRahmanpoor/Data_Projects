@@ -18,6 +18,7 @@ The project will be created utilizing different tools that are widely used in Da
 
 ## Customer Analytics
 * [Client Acquisition, Retention & LTV Analysis](https://github.com/AdnanRahmanpoor/Data_Projects/tree/main/Client_Acquisition_Retention_%26_LTV_Analysis)
+* [CRM Data Quality Dashboard [Excel]](https://github.com/AdnanRahmanpoor/Data_Projects/tree/main/CRM_Data_Quality_Dashboard)
 
 ## Economy
 * [Egg Prices Analysis - Nominal vs Real](https://github.com/AdnanRahmanpoor/Data_Projects/tree/main/egg_price_analysis_usa_2015_2025)
