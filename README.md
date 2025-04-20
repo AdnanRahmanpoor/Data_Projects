@@ -34,3 +34,6 @@ The project will be created utilizing different tools that are widely used in Da
 ## Real Estate Analysis
 * [Dubai Real Estate Analysis 2023 vs 2024](https://github.com/AdnanRahmanpoor/Data_Projects/tree/main/dubai_real_estate_market_performance)
 * [Dubai Real Estate Property Listings (2025)](https://github.com/AdnanRahmanpoor/Data_Projects/tree/main/Dubai_RealEstate_Listings)
+
+## Sales Analytics
+* [Retail Sales Trend Analysis](https://github.com/AdnanRahmanpoor/Data_Projects/tree/main/Retail_Sales_Trend_Analysis)
