@@ -29,7 +29,7 @@ retail-sales-analysis/
 |     └── dashboard_screen.png
 ├── reports/
 │   ├── executive_summary.pdf
-│   └── detailed_analysis.pdf
+│   └── executive_summary.md
 └── README.md
 ```
 
